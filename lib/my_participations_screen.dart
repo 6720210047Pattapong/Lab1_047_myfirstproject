@@ -30,7 +30,7 @@ class MyParticipationsScreen extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            'ชื่อผู้ใช้: รหัสนิสิต 6720210047',
+            'ชื่อผู้ใช้:ภัทรพงค์ ทองยิ่งมาก รหัสนิสิต 6720210047',
             style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 8),
